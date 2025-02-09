@@ -1,5 +1,3 @@
-
-
 public class Knight implements CharacterType {
     SwingSword swingAtk = new SwingSword();
     Shield shieldDefense = new Shield();
